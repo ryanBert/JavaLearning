@@ -136,7 +136,7 @@ Math.E
 
 #### 4.3 数值类型之间的转换
 
-![数值类型之间的合法转换](https://github.com/ryanBert/JavaLearning/new/main/Java%E5%9F%BA%E7%A1%80/img/数值类型之间的合法转换.png)
+![](https://github.com/ryanBert/JavaLearning/blob/main/Java%E5%9F%BA%E7%A1%80/img/%E6%95%B0%E5%80%BC%E7%B1%BB%E5%9E%8B%E4%B9%8B%E9%97%B4%E7%9A%84%E5%90%88%E6%B3%95%E8%BD%AC%E6%8D%A2.png)
 
 <center>数值类型之间的合法转换</center>
 
@@ -450,9 +450,9 @@ char[] passwd = cons.readPassword("Password");
 在Java SE 5.0沿用了C语言库函数中的`printf`方法的格式化。
 
 下图给出了用于printf函数的所有转换符和标志：
-![用于printf的转换符](https://github.com/ryanBert/JavaLearning/new/main/Java%E5%9F%BA%E7%A1%80/img/用于printf的转换符.png)
+![](https://github.com/ryanBert/JavaLearning/blob/main/Java%E5%9F%BA%E7%A1%80/img/%E7%94%A8%E4%BA%8Eprintf%E7%9A%84%E8%BD%AC%E6%8D%A2%E7%AC%A6.png)
 
-![用于printf的标志](https://github.com/ryanBert/JavaLearning/new/main/Java%E5%9F%BA%E7%A1%80/img/用于printf的标志.png)
+![](https://github.com/ryanBert/JavaLearning/blob/main/Java%E5%9F%BA%E7%A1%80/img/%E7%94%A8%E4%BA%8Eprintf%E7%9A%84%E6%A0%87%E5%BF%97.png)
 
 >`printf`方法中日期与时间的格式化选项，推荐使用`java.time`包的方法。
 

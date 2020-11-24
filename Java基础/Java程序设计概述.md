@@ -57,7 +57,7 @@ Java 虚拟机（JVM）是运行 Java 字节码的虚拟机。JVM 有针对不�
 
 ##### Java 程序从源代码到运行
 
-![](https://github.com/ryanBert/JavaLearning/new/main/Java%E5%9F%BA%E7%A1%80/img/Java从源代码到运行.png)
+![](https://github.com/ryanBert/JavaLearning/blob/main/Java%E5%9F%BA%E7%A1%80/img/Java%E4%BB%8E%E6%BA%90%E4%BB%A3%E7%A0%81%E5%88%B0%E8%BF%90%E8%A1%8C.png)
 
 已存在Java文件 Hello.java
 ```Java

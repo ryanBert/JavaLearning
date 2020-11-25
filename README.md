@@ -1,2 +1,2 @@
 # JavaLearning
-我的Java自学笔记
+我的Java学习笔记
